@@ -1,22 +1,21 @@
-Welcome to Lumache's documentation!
+Welcome to NPU perf modeling documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+文档对应的NPU perf项目文件已经发布在 `github <https://github.com/gui-yupeng/damo-npuperf>`_，团队中的小伙伴可以直接点开
 
-Check out the :doc:`usage` section for further information, including
+
+Check out the :doc:`快速开始` section for further information, including
 how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   github地址是我的个人仓库，可能还未开源，有后续的任务还未完成，如果有需要请移步官方的开源版本
 
 Contents
 --------
 
 .. toctree::
+   :maxdepth: 2
 
-   usage
-   api
+   快速开始
+   组织结构

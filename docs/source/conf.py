@@ -2,10 +2,11 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'NPU perf'
+copyright = '2025, Gui-yupeng'
+author = 'gui-yupeng'
 
+# 暂时放在这里不修改了
 release = '0.1'
 version = '0.1.0'
 
