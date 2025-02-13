@@ -5,6 +5,10 @@ NPU perf docs
 
 如有不合理之处，欢迎指正讨论
 
+文档在线版本在`这里 <https://npuperf-docs.readthedocs.io/zh-cn/latest/>`
+
+=======================================
+
 This GitHub template includes fictional Python library
 with some basic Sphinx docs.
 
