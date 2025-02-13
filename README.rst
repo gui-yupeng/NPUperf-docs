@@ -1,5 +1,9 @@
-Template for the Read the Docs tutorial
+NPU perf docs
 =======================================
+
+整理一个开源NPU建模工具，顺便学习一下开源文档的书写过程
+
+如有不合理之处，欢迎指正讨论
 
 This GitHub template includes fictional Python library
 with some basic Sphinx docs.
